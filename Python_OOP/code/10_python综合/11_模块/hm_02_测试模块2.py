@@ -4,7 +4,7 @@ title = "模块2"
 
 # 函数
 def say_hello():
-    print("我是 %s" % title)
+    print("我是一只 %s" % title)
 
 
 # 类
